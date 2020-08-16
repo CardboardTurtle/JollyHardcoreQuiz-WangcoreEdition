@@ -3,6 +3,7 @@ THANK YOU FOR INSTALLING MY GAME! I hope you have a lot of fun with it.
 the game has one version you can't run. It's not compiled.
 Compiling basically translates "program language" into "windows 10 language" or "Linux" language, so that it can run.
 https://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC)
+UPDATE: i decided to compile it myself so that its easier for jolly to start the game.
 This is how to run the game in just 10 easy steps on Linux or Windows. Linux is the first section but if you are a Windows user, scroll down until you reach the Windows section.
 
 =========={LESS IMPORTANT, BUT STILL VERY NOTEWORTHY.}==========
